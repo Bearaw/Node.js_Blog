@@ -1,0 +1,25 @@
+{
+  "name": "node.js_blog",
+  "version": "1.0.0",
+  "description": "a blog built by node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bearaw/Node.js_Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bearaw/Node.js_Blog/issues"
+  },
+  "homepage": "https://github.com/Bearaw/Node.js_Blog#readme",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "mongoose": "^5.9.24"
+  }
+}
