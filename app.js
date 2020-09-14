@@ -9,4 +9,4 @@ const admin = require('./route/admin');
 app.use('/home',home);
 app.use('/admin',admin);
 app.listen(80)
-console.log('网站服务启动成功，请访问localhost');
+console.log('网站服务启动成功，当前端口是默认的80，请访问localhost');
